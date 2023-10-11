@@ -1,11 +1,12 @@
-HTTrack3.49-2+htsswf+htsjava launched on Sat, 15 Oct 2022 21:42:45 at https://coolmans.free-drop.cc/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://coolmans.free-drop.cc/ -O1 "C:\My Web Sites\man" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 15 Oct 2022 21:48:02 at https://coolmans.free-drop.cc/claim.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://coolmans.free-drop.cc/claim.html -O1 "C:\My Web Sites\adder" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
+21:48:13	Error: 	"Not Found" (404) at link https://coolmans.free-drop.cc/ola.gif (from https://coolmans.free-drop.cc/claim.html)
 
-HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 19 links scanned, 18 files written (5623850 bytes overall) [1910342 bytes received at 106130 bytes/sec], 5327714 bytes transferred using HTTP compression in 12 files, ratio 30%, 2.1 requests per connection
-(No errors, 0 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 20 links scanned, 18 files written (5936311 bytes overall) [2006613 bytes received at 125413 bytes/sec], 5653674 bytes transferred using HTTP compression in 13 files, ratio 30%, 2.6 requests per connection
+(1 errors, 0 warnings, 0 messages)
